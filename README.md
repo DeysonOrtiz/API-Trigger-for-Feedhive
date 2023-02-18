@@ -18,7 +18,7 @@ TITLE_OF_VIDEO="Your title of video text here"
 VIDEO_DISCUSS="Your video discuss text here"
 LINK_TO_VIDEO="Your link to video text here"
 Replace each variable with the corresponding text you want to send in the API request.
-
+Add you API LINK code
 Save the script and then run it from the command line:
 
 bash
